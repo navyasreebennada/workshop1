@@ -22,7 +22,7 @@
 	</properties>	
 <profiles>
 <profile>
-<id>'sonar' hi hello</id>
+<id>'sonar' hi hello everyone</id>
 <activation>
 <activeByDefault>true</activeByDefault></activation>
 
